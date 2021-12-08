@@ -44,7 +44,10 @@
     <Compile Include="CategoriesDL.cs" />
     <Compile Include="DataAccess.cs" />
     <Compile Include="EmployeeDL.cs" />
+    <Compile Include="ItemsDL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SubCategoriesDL.cs" />
+    <Compile Include="TableDL.cs" />
     <Compile Include="UsersDL.cs" />
   </ItemGroup>
   <ItemGroup />

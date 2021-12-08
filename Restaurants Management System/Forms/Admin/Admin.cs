@@ -41,7 +41,7 @@ namespace Restaurants_Management_System.Forms.Admin
 
         private void btnCategory_Click(object sender, EventArgs e)
         {
-            new OpenChildForm(new CategoryForm(), metroPanelAdminMain);
+            new OpenChildForm(new ManageMenu(), metroPanelAdminMain);
         }
     }
 }

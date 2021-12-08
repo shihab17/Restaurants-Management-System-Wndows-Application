@@ -43,9 +43,16 @@
   <ItemGroup>
     <Compile Include="Categories.cs" />
     <Compile Include="Employees.cs" />
+    <Compile Include="Entities\AddToOrder.cs" />
     <Compile Include="Entities\Category.cs" />
     <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\Item.cs" />
+    <Compile Include="Entities\SubCategory.cs" />
+    <Compile Include="Entities\Table.cs" />
     <Compile Include="Entities\User.cs" />
+    <Compile Include="Items.cs" />
+    <Compile Include="SubCategories.cs" />
+    <Compile Include="Tables.cs" />
     <Compile Include="Users.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
